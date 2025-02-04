@@ -16,7 +16,7 @@ Expandable Expert List: Initially shows the top 5 experts, with an option to loa
 
 Efficient Panel Formation: Helps HR teams quickly assemble an optimal interview panel.
 
-#How It Works#
+# How It Works#
 
 Resume Parsing: Extracts key skills, experience, and relevant attributes from the candidate's resume.
 
