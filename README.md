@@ -1,6 +1,6 @@
-# MIRA-Matching-Interviewers-With-Resume-using-AI
+## MIRA-Matching-Interviewers-With-Resume-using-AI
 
-Overview
+# Overview #
 
 The Expert Relevance Module of MIRA is an AI-driven system designed to match interview panel members with candidate resumes based on expertise and relevance. This module ensures that candidates are evaluated by the most qualified interviewers, enhancing the efficiency and fairness of the selection process.
 
